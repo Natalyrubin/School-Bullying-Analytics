@@ -1,5 +1,17 @@
 # 📊 School Bullying Analytics
 
+## 🌐 View the Full Project
+
+GitHub may not render large Jupyter notebooks properly when they contain many outputs, charts, and tables.  
+For a smoother reading experience, this project includes two versions:
+
+- 📄 **Full rendered analysis with outputs:** `School_Bullying_Analytics.html`
+- 📓 **Clean Colab notebook without outputs:** `School_Bullying_Analytics.ipynb`
+
+👉 To view the full analysis, open/download the HTML file from this repository.
+
+---
+
 ## 🧠 Overview
 A data-driven project focused on analyzing and understanding bullying patterns among students.  
 The goal is to uncover behavioral signals, identify risk factors, and build predictive insights that can support early detection and intervention.
