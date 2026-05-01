@@ -8,6 +8,16 @@ This project combines exploratory data analysis (EDA), data preprocessing, and m
 
 ---
 
+## 🌐 View Full Project (with outputs)
+
+The GitHub notebook is provided without outputs for performance reasons.
+
+👉 To view the full analysis with all charts and results, open the original Colab notebook:
+
+To view the full analysis, [open in Google Colab](https://colab.research.google.com/drive/1FsMlChduJuOaileM-pZc9KvGerjY5soT#scrollTo=b1gh_Py7mGPe).
+
+---
+
 ## 🎯 Objectives
 - Analyze key factors associated with bullying behavior  
 - Identify patterns across demographics, social behavior, and environment  
