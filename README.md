@@ -16,6 +16,8 @@ The GitHub notebook is provided without outputs for performance reasons.
 
 To view the full analysis, [open in Google Colab](https://colab.research.google.com/drive/1FsMlChduJuOaileM-pZc9KvGerjY5soT#scrollTo=b1gh_Py7mGPe).
 
+To view the summary presentation, [open in Google Slides](https://docs.google.com/presentation/d/1dT_MIFBV9o4fouazw70hqjOuoNUmbNv29b-1x1O4QAU/edit?slide=id.p1#slide=id.p1).
+
 ---
 
 ## 🎯 Objectives
